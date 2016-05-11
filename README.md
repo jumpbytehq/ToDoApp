@@ -1,5 +1,4 @@
 # ToDo App in Swift
-![](url =width*height)
 ![HomeScreen](/IMG_4245.PNG =300*534)
 
 
