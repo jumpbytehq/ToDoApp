@@ -1,5 +1,5 @@
 # ToDo App in Swift
-![HomeScreen](/IMG_4245.PNG =300*534)
+![HomeScreen](/IMG_4245.PNG width="300" height="534px")
 
 
 
